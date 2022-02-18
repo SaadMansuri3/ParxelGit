@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParxelApi", "ParxelApi.csproj", "{359DE4A9-944A-4BDC-BB7D-D06C9A264A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Architecture", "..\Architecture\Architecture.csproj", "{4A584327-F093-4E56-946D-8685882C3CF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parxel.api", "Parxel.api", "{30FC6630-FA17-4553-B2E3-900972E6D6E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parxel.Architecture", "Parxel.Architecture", "{39FF9984-8EE3-4D7B-9207-449BE155F575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359DE4A9-944A-4BDC-BB7D-D06C9A264A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359DE4A9-944A-4BDC-BB7D-D06C9A264A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359DE4A9-944A-4BDC-BB7D-D06C9A264A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359DE4A9-944A-4BDC-BB7D-D06C9A264A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A584327-F093-4E56-946D-8685882C3CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A584327-F093-4E56-946D-8685882C3CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A584327-F093-4E56-946D-8685882C3CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A584327-F093-4E56-946D-8685882C3CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{359DE4A9-944A-4BDC-BB7D-D06C9A264A54} = {30FC6630-FA17-4553-B2E3-900972E6D6E4}
+		{4A584327-F093-4E56-946D-8685882C3CF0} = {39FF9984-8EE3-4D7B-9207-449BE155F575}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41CFBA51-F387-44A4-9444-AF975F9E1B8C}
+	EndGlobalSection
+EndGlobal

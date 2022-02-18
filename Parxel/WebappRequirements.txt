@@ -1,0 +1,18 @@
+-Sign up 
+--First Name
+--Last Name
+--Age
+--Country code
+--Phone number verified with OTP [Defining Factor]
+--Db(Id, FirstName, LastName, Age, CountryCode, Mobile)
+
+-Login 
+--Phone number verified with OTP
+
+-Profile 
+--FullName
+--EmailId
+--Past Orders list
+--Active Orders
+--Address List (Option to set 1 as home)
+--Payment options(COD, Paytm, Gpay, Debit, Credit)
