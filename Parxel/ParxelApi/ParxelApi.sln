@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParxelApi", "ParxelApi.csproj", "{359DE4A9-944A-4BDC-BB7D-D06C9A264A54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Architecture", "..\Architecture\Architecture.csproj", "{4A584327-F093-4E56-946D-8685882C3CF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Architecture", "..\Architecture\Architecture.csproj", "{4A584327-F093-4E56-946D-8685882C3CF0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parxel.api", "Parxel.api", "{30FC6630-FA17-4553-B2E3-900972E6D6E4}"
 EndProject

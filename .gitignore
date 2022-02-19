@@ -20,6 +20,7 @@ project.lock.json
 [Rr]eleases/
 x64/
 x86/
+v16/
 build/
 bld/
 [Bb]in/
